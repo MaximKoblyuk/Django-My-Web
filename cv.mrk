@@ -1,0 +1,221 @@
+Maxim Koblyuk
+
+Contact
+Phone: +420774930615
+E-mail: maximkoblyuk@gmail.com
+Linkedin: https://www.linkedin.com/in/maxim-koblyuk-6a82b7126/
+GitHub: github.com/MaximKoblyuk
+
+Professional Summary
+
+Cloud & DevOps Engineer with 4+ years of experience designing, deploying, and maintaining scalable cloud-native solutions on Microsoft Azure. Skilled in Infrastructure as Code (IaC), CI/CD automation, Kubernetes, and cloud monitoring. Strong focus on efficiency, security, and modern DevOps practices.
+Core Competencies
+
+    •  Cloud Infrastructure Architecture & Automation
+    • CI/CD Pipeline Development & GitOps
+    • Regulatory & Security Compliance (GDPR, SOX)
+    • Cross-functional Team Collaboration
+    • Communication & Stakeholder Management
+    • Problem Solving & Rapid Learning
+
+
+Experience
+
+EUC A.S.,  Development Operations Engineer/ Cloud Engineer	 01.08.2025 - present
+
+    • Key Responsibilities:
+        ◦ Project & Cloud Management – Lead and manage cloud infrastructure projects from planning to execution, ensuring alignment with business objectives and security requirements.
+        ◦ Azure Infrastructure – Build, manage, and optimize scalable Azure environments, including compute, storage, networking, and security configurations.
+        ◦ Identity & Access Management – Administer users, groups, and service principals, implementing least-privilege principles and role-based access control (RBAC).
+        ◦ Cloud Architecture & Cost Optimization – Design cloud architecture roadmaps, implement cost management strategies, and ensure resources are efficiently utilized.
+        ◦ Cross-Functional Collaboration – Partner with Developers, Data Engineers, and Data Scientists to enable secure and seamless deployments.
+
+    • Infrastructure as Code (IaC):
+        ◦ Develop and maintain IaC solutions using Terraform, Bicep, YAML pipelines, and Bash scripting.
+        ◦ Automate deployments, configurations, and scaling of microservices and cloud-native workloads.
+        ◦ Integrate Azure Data Factory and Databricks with secure runtime connections to support advanced analytics and machine learning workflows.
+
+    •  Monitoring, Security & Compliance:
+        ◦ Configure diagnostic settings and Azure Log Analytics to monitor performance and detect anomalies.
+        ◦ Implement Logic Apps for automated alerting and incident response across teams.
+        ◦ Utilize Grafana and Prometheus for comprehensive observability, performance tuning, and proactive system health management.
+        ◦ Embed security practices into CI/CD pipelines, applying DevSecOps principles to enforce compliance, vulnerability management, and automated policy checks.
+
+
+
+Freelance project Cloud Engineer/ Project Management	01.05.2025 - 01.08.2025
+
+    • Project Management
+        ◦ Managing Azure cloud infrastructure
+        ◦ Administering users, service principals, and groups.
+        ◦ Create Cloud Architecture plan
+        ◦ Cost Management 
+        ◦ Collaboration with Developers, Data Engineers and Data Scientists.  
+
+    • Infrastructure as code 
+        ◦ Establishing connections with integration runtime for Databricks and Azure Data Factory.
+        ◦ Implementing Infrastructure as Code (IaC) practices.
+        ◦ Building configuration pipelines using YAML files, bash scripts, and Terraform.
+        ◦ Developing Bicep templates for microservices deployment.
+    • Monitoring
+
+        ◦ Monitoring the cloud system through diagnostics settings and Log Analytics.
+        ◦  Configuring Logic Apps to send notifications using YAML configurations to specific users or teams
+        ◦ Utilizing monitoring tools such as Grafana, and Prometheus for comprehensive monitoring analysis.
+
+
+
+
+
+
+
+Actum, Development Operations Engineer/ Cloud Engineer 	 01.02.2024 - 01.05.2025
+
+    • Administrating Azure cloud					
+        ◦ Managing Azure cloud infrastructure
+        ◦ Ensuring security and maintaining data quality control.
+        ◦ Administering users, service principals, and groups.
+        ◦ Implementing Agile methodology to control project workflows.
+        ◦ Overseeing Continuous Integration/Continuous Deployment (CI/CD) processes and deploying
+        ◦ Projects using Azure DevOps and GitHub Actions.
+        ◦ Managing GitHub repositories and serving as a reviewer for code changes.
+
+    • Infrastructure as code 
+        ◦ Implementing Infrastructure as Code (IaC) practices.
+        ◦ Building configuration pipelines using YAML files, bash scripts, and Terraform.
+        ◦ Developing Bicep templates for microservices deployment.
+        ◦ Leveraging Azure Kubernetes Services, Docker containers, and Azure Container Registry for containerized applications.
+        ◦ Establishing connections with integration runtime for Databricks and Azure Data Factory.
+
+    • Monitoring
+
+        ◦ Monitoring the cloud system through diagnostics settings and Log Analytics.
+        ◦  Configuring Logic Apps to send notifications using YAML configurations to specific users or teams.
+        ◦ Utilizing monitoring tools such as Datadog, Grafana, and Prometheus for comprehensive monitoring analysis.
+        ◦ Additionally, the role involves administering Kentico applications and web apps, including:
+        ◦  Managing and maintaining Kentico app instances deployed on Azure infrastructure.
+        ◦ Configuring and optimizing Kentico CMS for performance and scalability.
+        ◦ Implementing custom features and functionalities within Kentico applications.
+        ◦  Troubleshooting and resolving issues related to Kentico CMS and web apps.
+        ◦ Collaborating with development teams to integrate Kentico applications with other systems and services.
+        ◦ Performing regular backups and updates for Kentico applications to ensure data integrity and security.
+        ◦ Providing technical support and guidance to users and stakeholders regarding Kentico CMS usage and best practices.
+
+
+
+
+
+
+
+Albert CZ, Development Operations Engineer/ Cloud Engineer 	01.09.2022 - 01.02.2024
+
+    • Administrating Azure cloud for the Czech Republic
+
+        ◦ Administering Azure cloud services in the Czech Republic, focusing on security and data quality control. 
+        ◦ Managing users, service principals, and groups while overseeing project workflows using Agile methodologies.
+        ◦ Controlling CI/CD processes and deploying projects in Azure DevOps.
+        ◦ Administering GitHub repositories and performing code reviews.
+
+    • Infrastructure as code 
+
+        ◦ Implementing Infrastructure as Code (IaC) techniques, including configuration pipelines using YAML, bash, Terraform, and Jenkins.
+        ◦ Developing Bicep and GO templates for microservices.
+        ◦ Working with Azure Kubernetes services, Docker containers, and Azure Container Registry.
+        ◦ Establishing connections using integration runtime for Databricks and Azure Data Factory.
+        ◦ Python configuration and PySpark data transformation.
+
+
+    • Monitoring
+
+        ◦ Monitoring cloud systems using Diagnosing settings and Log Analytics.
+        ◦ Implementing Logic Apps for sending notifications with YAML configurations to users or teams.
+        ◦ Utilizing monitoring tools such as Datadog, Grafana, and Prometheus.
+
+
+
+
+
+
+
+Deloitte CE, Consultant Risk Advisor/ Cloud Engineer		01.11.2021 – 01.09.2022
+
+Projects:
+
+    • Leading European auto manufacturer 
+ 
+        ◦ Monitored and reported on company activities, including documentation issuance and compliance training.
+        ◦ Conducted reviews and testing of internal controls for GDPR compliance.
+
+    • Global software company 
+	
+        ◦ Enhanced VM security on Microsoft Azure based on security standards.
+        ◦ Supported MetricStream and created new features using JavaScript templates.
+
+    • Real estate company
+
+    • Ensured regulatory compliance, SOX & GDPR compliance, and conducted gap analysis.
+    • Managed contracts and the buy/sell process, providing consulting and client support.
+    • Designed a reliable firewall for an international building materials manufacturer.
+
+
+
+
+
+Unicorn, Development Operations Engineer/ Cloud Engineer	01.07.2021- 01.11.2021
+
+    • Worked as a DevOps engineer with a focus on VM (virtual machine) and security VM servers using Microsoft Azure.
+    • Experienced in CI/CD practices and combined practices of continuous integration (CI) and continuous delivery or continuous deployment.
+    • Managed GitLab/GitHub repositories for application migration to the cloud or VM.
+
+
+
+
+Freelance engineer, QA / Cloud Consultant			01.05.2020 – 01.07.2021
+
+    • Created test cases and reported bugs for mobile and web applications.
+    • Automated tests using open-source tools and frameworks.
+    • Supported developers by designing and provisioning cloud-based testing environments.
+
+
+
+Education
+    • College of Economics and Law 
+    • Kubernetes Academy by Unicorn
+    • Yuriy Fedkovych Chernivtsi National University
+
+Professional Certification
+    • LFS158x: Kubernetes 
+    • Administrator & Cloud Azure
+    • Risk Analysis, Evaluation, and Assessment
+    • GitHub
+    • Intermediate Python
+    • Big Data Fundamentals with PySpark
+    • Fundamentals of the Databricks Lakehouse Platform Accreditation
+    • GDPR compliance
+    • Certificate Of Completion Risk Management for IT and Cybersecurity Managers
+    • ITIL*Intro & ISO 27001 Cybersecurity manager
+    • Linux Administrator  
+    • Jira Fundamentals from Atlassian
+    • MetricStream basic, compliance, and risk management 
+    • Databases and SQL for Data Science from IBM
+    • Basic Active Directory from Microsoft 
+    • Databases and SQL for Data Science
+    • MIS (management information systems)
+
+
+
+Skills
+Languages
+
+Ukrainian			Native speaker
+Russian			Native speaker
+English			Advanced (including IT terms)
+Czech				Advanced
+German			Intermediate
+
+
+Competencies
+Communication and business negotiating
+Independence as well as teamwork
+Working under stress and meeting deadlines
+Quick learning
