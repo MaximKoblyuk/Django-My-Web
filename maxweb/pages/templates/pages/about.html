@@ -1,0 +1,35 @@
+{% extends 'pages/base.html' %}
+
+{% block title %}About - My Web Page{% endblock %}
+
+{% block header_title %}About This Website{% endblock %}
+
+{% block content %}
+    <h2>About This Website</h2>
+    <p>This website was created using Django, a high-level Python web framework that encourages rapid development and clean, pragmatic design.</p>
+    
+    <div style="margin: 2rem 0;">
+        <h3>Technologies Used:</h3>
+        <ul>
+            <li><strong>Python</strong> - The programming language</li>
+            <li><strong>Django</strong> - The web framework</li>
+            <li><strong>HTML/CSS</strong> - For structure and styling</li>
+        </ul>
+    </div>
+    
+    <div style="background-color: #f0f8f0; padding: 1rem; border-radius: 5px; margin: 2rem 0;">
+        <h3>About Django:</h3>
+        <p>Django follows the "batteries-included" philosophy and provides many built-in features:</p>
+        <ul>
+            <li>Admin interface</li>
+            <li>Object-relational mapping (ORM)</li>
+            <li>Authentication system</li>
+            <li>Template engine</li>
+            <li>URL routing</li>
+        </ul>
+    </div>
+    
+    <p>This is just the beginning! You can expand this website by adding more pages, database models, user authentication, and much more.</p>
+    
+    <p><a href="{% url 'home' %}">← Back to Home</a></p>
+{% endblock %}

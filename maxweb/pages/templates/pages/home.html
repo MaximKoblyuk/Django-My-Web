@@ -1,0 +1,28 @@
+{% extends 'pages/base.html' %}
+
+{% block title %}Home - My Web Page{% endblock %}
+
+{% block header_title %}Welcome to My Amazing Website{% endblock %}
+
+{% block content %}
+    <h2>Hello and Welcome!</h2>
+    <p>This is your first Django web page. Congratulations on getting started with web development!</p>
+    
+    <div style="margin: 2rem 0;">
+        <h3>What you can do here:</h3>
+        <ul>
+            <li>Learn about web development with Django</li>
+            <li>Explore different pages on this website</li>
+            <li>Customize the content to make it your own</li>
+        </ul>
+    </div>
+    
+    <div style="background-color: #e8f4f8; padding: 1rem; border-radius: 5px; margin: 2rem 0;">
+        <h3>Fun Facts:</h3>
+        <p>🚀 Django is a powerful Python web framework</p>
+        <p>🌟 You just created your first web page!</p>
+        <p>💡 This page is being served by Django's development server</p>
+    </div>
+    
+    <p>Feel free to <a href="{% url 'about' %}">learn more about this website</a> on the About page.</p>
+{% endblock %}
